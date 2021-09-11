@@ -1,6 +1,6 @@
 # cloud-interactive-landing-page-interview
 
-This is a web application that displays images of the diffrent breed of dog built with REACT
+This is a web application that displays images of the different breed of dogs. It was built with REACT
 
 ## Table of contents
 
