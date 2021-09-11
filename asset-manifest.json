@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/different-breeds-of-dogs/static/css/main.de110bd7.chunk.css",
+    "main.js": "/different-breeds-of-dogs/static/js/main.2474302d.chunk.js",
+    "main.js.map": "/different-breeds-of-dogs/static/js/main.2474302d.chunk.js.map",
+    "runtime-main.js": "/different-breeds-of-dogs/static/js/runtime-main.390e0fa2.js",
+    "runtime-main.js.map": "/different-breeds-of-dogs/static/js/runtime-main.390e0fa2.js.map",
+    "static/js/2.d966f683.chunk.js": "/different-breeds-of-dogs/static/js/2.d966f683.chunk.js",
+    "static/js/2.d966f683.chunk.js.map": "/different-breeds-of-dogs/static/js/2.d966f683.chunk.js.map",
+    "index.html": "/different-breeds-of-dogs/index.html",
+    "static/css/main.de110bd7.chunk.css.map": "/different-breeds-of-dogs/static/css/main.de110bd7.chunk.css.map",
+    "static/js/2.d966f683.chunk.js.LICENSE.txt": "/different-breeds-of-dogs/static/js/2.d966f683.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.390e0fa2.js",
+    "static/js/2.d966f683.chunk.js",
+    "static/css/main.de110bd7.chunk.css",
+    "static/js/main.2474302d.chunk.js"
+  ]
+}
