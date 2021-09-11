@@ -14,7 +14,7 @@ This is a web application that displays images of the different breed of dogs. T
 
 ### Screenshot
 
-![](https://github.com/franklynwisdom/cloud-interactive-landing-page-interview/blob/master/uba-design-landing-page.PNG)
+![](https://github.com/franklynwisdom/different-breeds-of-dogs/blob/master/breeds-of-dogs-screenshot.png)
 
 
 ### Link
